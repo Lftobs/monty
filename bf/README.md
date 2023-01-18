@@ -1,1 +1,1 @@
-brainfuck
+brainf*ck
